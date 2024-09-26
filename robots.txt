@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://nwirie.github.io/sitemap/sitemap.txt
